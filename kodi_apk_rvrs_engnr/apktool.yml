@@ -1,0 +1,14 @@
+version: 2.0.0-RC3
+apkFileName: org.xbmc.kodi-14.2-142000-minAPI14.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '142000'
+  versionName: '14.2'
+compressionType: false
